@@ -2,7 +2,7 @@
 
 ## About Me
 
-Iam THAMIZHSELVAN D from class of **3rd year CSE** today we've started to learn about Mern stack and web development.On day 1 we learned about basics of web development and mern stack.
+Iam RAJKARAN V  from class of **3rd year CSE** today we've started to learn about Mern stack and web development.On day 1 we learned about basics of web development and mern stack.
 
 ## Objective
 
@@ -35,3 +35,4 @@ Day6: Advanced JAvascript
 Day7: React Basics
 
 Day8: React State & Hook
+
